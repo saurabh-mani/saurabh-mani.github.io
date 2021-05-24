@@ -1,0 +1,16 @@
+body{
+    margin:0rem;
+    padding:0rem;
+    background-color: #a5d1d1;
+}
+.prayers-list{
+    position: fixed;
+    width:100%;
+    background-color: #097e7e;
+    padding:10px 0px 10px 10px ;
+    
+}
+.prayer{
+    padding: 60px;
+    color:#043838;
+}
