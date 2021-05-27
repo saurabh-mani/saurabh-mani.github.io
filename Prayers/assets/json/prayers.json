@@ -12,6 +12,10 @@ prayers=[
         "prayer":"Hail, Mary, full of grace,<br>the Lord is with thee.<br>Blessed art thou amongst women<br>and blessed is the fruit of thy womb, Jesus.<br><br>Holy Mary, Mother of God,<br>pray for us sinners,<br>now and at the hour of our death. <br>Amen."
     },
     {
+        "title":"Fatima Ejaculation",
+        "prayer":"O my Jesus, forgive us our sins, save us from the fires of hell, and lead all souls to heaven, especially those who most need of Your mercy. "
+    },
+    {
         "title":"I Confess",
         "prayer":"I confess to almighty God<br>and to you,<br>my brothers and sisters,<br>that I have greatly sinned,<br>in my thoughts and in my words,<br>in what I have done and in what I have failed to do,<br>(Striking breast) through my fault, through my fault,<br>through my most grievous fault;<br>therefore I ask blessed Mary ever-Virgin,<br>all the Angels and Saints,<br>and you, my brothers and sisters,<br>to pray for me to the Lord our God."
     },
@@ -22,10 +26,6 @@ prayers=[
     {
         "title":"Act of Contrition (traditional)",
         "prayer":"O my God, I am heartily sorry for having offended Thee, and I detest all my sins because of thy just punishments, but most of all because they offend Thee, my God, who art all good and deserving of all my love.<br><br>I firmly resolve with the help of Thy grace to sin no more and to avoid the near occasion of sin. Amen."
-    },
-    {
-        "title":"Act of Contrition (alternate form)",
-        "prayer":"My God, I am sorry for my sins with all my heart. In choosing to do wrong and failing to do good, I have sinned against you whom I should love above all things. <br><br>I firmly intend, with your help, to do penance, to sin no more, and to avoid whatever leads me to sin.<br><br>Our Savior Jesus Christ suffered and died for us. In his name, my God, have mercy."
     },
     {
         "title":"Act of Contrition (alternate form)",
